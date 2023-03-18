@@ -1,4 +1,4 @@
-<h1 style="text-align:center; font-family: 'Times New Roman',Times, serif; font-weight: bold;"># Forecasting-Commercial-Bank-Transactions</h1>
+<h1 style="text-align:center; font-family: 'Times New Roman',Times, serif; font-weight: bold;">Forecasting-Commercial-Bank-Transactions</h1>
 
 Time series analysis and modelling of a commercial bank's transactions
 ![Bank_Transactions](Images/bank-img.jpg)
