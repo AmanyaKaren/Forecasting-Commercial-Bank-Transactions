@@ -34,7 +34,6 @@ Two models were used ;
 2) SARIMA
 
 <h1 style="text-align:left; font-family: 'Times New Roman',Times, serif; font-weight: bold;">Evaluation</h1>
-#### Model Performance Observations
 
 <ol>
     <li>ARIMA model - the model overfitted on the train and performed poory on the test data.</li><br>
